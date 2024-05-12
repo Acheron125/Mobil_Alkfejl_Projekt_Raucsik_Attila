@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112004151568",
+    "project_id": "onlinemeditationapp",
+    "storage_bucket": "onlinemeditationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112004151568:android:09d23f9d21ba5584bd4d95",
+        "android_client_info": {
+          "package_name": "com.example.onlinemeditationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYUSYn9xOjIVH8DYyz6kT0eMMD0TgFskA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/sessionTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Placeholder_Title"/>
+        <TextView
+            android:id="@+id/sessionDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sessionTitle"
+            android:text="Placeholder_Description"/>
+        <TextView
+            android:id="@+id/sessionPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sessionDesc"
+            android:text="Placeholder_Price"/>
+        <Button
+            android:id="@+id/sessionRegisterButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sessionPrice"
+            android:text="Jelentkezés"/>
+        
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
